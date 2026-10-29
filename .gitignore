@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-electron
+release
+*.log
+.DS_Store
+
+# Local library cache: SQLite index + generated thumbnails (safe to delete)
+cache/
+
+# Electron-managed runtime data (Chromium cache, localStorage, etc.)
+userdata/
